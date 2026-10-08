@@ -1,0 +1,14 @@
+import java.util.Scanner;
+public class CalculoMinutosSegundos {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int segundos;
+        int minutos;
+        int segundosRestantes;
+        System.out.printIn("Calculamos el número minutos y segundos, dada una cantidad de segundos...");
+        segundos = scanner.nextInt();
+        minutos = segundos / 60;
+        segundosRestantes = minutos % 60;
+        System.out.printIn("El número de minutos es" + minutos + "y el número de segundos restantes es" + segundosRestantes);
+    }
+}
