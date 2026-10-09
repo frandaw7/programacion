@@ -1,9 +1,9 @@
 # ♨️💻 Programación. | Clasificación de temario. 
 | Sección | Descripción | Documentación | Estado |
 | :--- | :--- | :--- | :---: |
-| **♨️ Tema 1** | Prácticas acerca de Tema 1. | [Ver Contenido](./database/metro.sql) | 🟡 En proceso. |
-| **♨️ Tema 2** | Prácticas acerca de Tema 2. | [Ver Diagrama](./design/eer_diagram.png) | 🟡 En proceso. |
-| **♨️ Tema 3** | Prácticas acerca de Tema 3. | [Ver API Docs](#-documentación-de-la-api) | 🟡 En proceso. |
+| **♨️ Tema 1** | Prácticas acerca de Tema 1. | [Ver Contenido.](./database/metro.sql) | 🟡 En proceso. |
+| **♨️ Tema 2** | Prácticas acerca de Tema 2. | [Ver Contenido.](./design/eer_diagram.png) | 🟡 En proceso. |
+| **♨️ Tema 3** | Prácticas acerca de Tema 3. | [Ver Contenido.](#-documentación-de-la-api) | 🟡 En proceso. |
 ---
 
 ## 📖 Documentación de la API
