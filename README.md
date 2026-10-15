@@ -4,7 +4,7 @@
 | **☕♨️ Tema 1.** | Prácticas acerca de Tema 1. | [Ver contenido.]() | 🔴 Sin completar. |
 | **☕♨️ Tema 2.** | Prácticas acerca de Tema 2. | [Ver contenido.]() | 🟡 En proceso. |
 | **☕♨️ Tema 3.** | Prácticas acerca de Tema 3. | [Ver contenido.]() | 🟡 En proceso. |
-| **☕♨️ Tema 4.** | Prácticas acerca de Tema 4. | [Ver contenido.]() | 🟡 En proceso. |
+| **☕♨️ Tema 4.** | Prácticas acerca de Tema 4. | [Ver contenido.](#tema-4--prácticas-realizadas) | 🟡 En proceso. |
 ---
 
 
