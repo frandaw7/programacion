@@ -4,7 +4,7 @@
 | **☕♨️ Tema 1.** | Prácticas acerca de Tema 1. | [Ver contenido.]() | 🔴 Sin completar. |
 | **☕♨️ Tema 2.** | Prácticas acerca de Tema 2. | [Ver contenido.]() | 🟡 En proceso. |
 | **☕♨️ Tema 3.** | Prácticas acerca de Tema 3. | [Ver contenido.]() | 🟡 En proceso. |
-| **☕♨️ Tema 4.** | Prácticas acerca de Tema 4. | [Ver contenido.]([#tema-4--prácticas-realizadas](https://github.com/frandaw7/programacion/tree/main#%EF%B8%8F-tema-4--pr%C3%A1cticas-realizadas)) | 🟡 En proceso. |
+| **☕♨️ Tema 4.** | Prácticas acerca de Tema 4. | [Ver contenido.](https://github.com/frandaw7/programacion/tree/main#%EF%B8%8F-tema-4--pr%C3%A1cticas-realizadas) | 🟡 En proceso. |
 ---
 
 
