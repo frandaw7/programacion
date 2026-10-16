@@ -20,8 +20,8 @@
 | **☕♨️ QPedirNumeroCifras.** | Pedir un número entre 0 y 9.999 y decir cuantas cifras tiene. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QPedirNumeroCifras.java) | 🟢 Listo. |
 | **☕♨️ QPedirNumeroPalindromo.** | Pedir un número entre 0 y 99.999 e indicar si es palíndromo o no lo es. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QPedirNumeroPalindromo.java) | 🟢 Listo. |
 | **☕♨️ QResta.** | El programa genera aleatoriamente dos números enteros de un dígito número1 y número2 con número1> = número2 y muestra una pregunta como "¿Cuanto es 9-2?" Al estudiante. Después de que el estudiante escribe la respuesta, el programa muestra si la respuesta es correcta. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QResta.java) | 🟢 Listo. |
-| **☕♨️ QIMC.** | Problema: Índice de masa corporal. Índice de masa corporal (IMC) es una medida de la salud en el peso. Se puede calcular tomando su peso en kilogramos y dividiendo por el cuadrado de su altura en metros. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QIMC.java) | 🟢 Listo. |
-| **☕♨️ QDividirA.** | Programa que divida una palabra desde la primera A que encuentre. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema4/QDividirA.java) | 🟡 En proceso. |
+| **☕♨️ QIMC.** | Problema: Índice de masa corporal. Índice de masa corporal (IMC) es una medida de la salud en el peso. Se puede calcular tomando su peso en kilogramos y dividiendo por el cuadrado de su altura en metros... | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QIMC.java) | 🟢 Listo. |
+| **☕♨️ QImpuestosInformaticos.java** | Problema: Impuestos informáticos. El impuesto federal sobre la renta de los Estados Unidos se calcula sobre la base del estado civil y de los ingresos imponibles. Existen cuatro estados de presentación: declarantes solteros, casados que presentaron conjuntamente, casados que presentaron por separado y cabeza de familia... | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QImpuestosInformaticos.java) | 🟢 Listo. |
 ---
 
 
