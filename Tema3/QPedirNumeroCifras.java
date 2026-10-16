@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class QPedirNumeroCifras1 {
+public class QPedirNumeroCifras {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Introduce un número entre 0 y 9.999: ");
