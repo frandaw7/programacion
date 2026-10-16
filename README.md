@@ -20,7 +20,7 @@
 | **☕♨️ QPedirNumeroCifras.** | Pedir un número entre 0 y 9.999 y decir cuantas cifras tiene. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QPedirNumeroCifras.java) | 🟢 Listo. |
 | **☕♨️ QPedirNumeroPalindromo.** | Pedir un número entre 0 y 99.999 e indicar si es palíndromo o no lo es. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QPedirNumeroPalindromo.java) | 🟢 Listo. |
 | **☕♨️ QResta.** | El programa genera aleatoriamente dos números enteros de un dígito número1 y número2 con número1> = número2 y muestra una pregunta como "¿Cuanto es 9-2?" Al estudiante. Después de que el estudiante escribe la respuesta, el programa muestra si la respuesta es correcta. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QResta.java) | 🟢 Listo. |
-| **☕♨️ QInsertarMitadCadenaCaracteres.** | Programa que inserte “<>” justo en la mitad de una cadena de caracteres desde teclado. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema4/QInsertarMitadCadenaCaracteres.java) | 🟡 En proceso. |
+| **☕♨️ QIMC.** | Problema: Índice de masa corporal. Índice de masa corporal (IMC) es una medida de la salud en el peso. Se puede calcular tomando su peso en kilogramos y dividiendo por el cuadrado de su altura en metros. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QIMC.java) | 🟢 Listo. |
 | **☕♨️ QDividirA.** | Programa que divida una palabra desde la primera A que encuentre. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema4/QDividirA.java) | 🟡 En proceso. |
 ---
 
