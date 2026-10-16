@@ -24,6 +24,7 @@
 | **☕♨️ QImpuestosInformaticos.java** | Problema: Impuestos informáticos. El impuesto federal sobre la renta de los Estados Unidos se calcula sobre la base del estado civil y de los ingresos imponibles. Existen cuatro estados de presentación: declarantes solteros, casados que presentaron conjuntamente, casados que presentaron por separado y cabeza de familia... | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QImpuestosInformaticos.java) | 🟢 Listo. |
 | **☕♨️ QGranjaCaracoles.** | Granja de caracoles. Realice un programa que calcule el precio final de la compra de una cantidad de kg con un determinado descuento y aplicando el IVA. Se debe indicar si el comprador es particular o empresa y en función de la tabla calcular el descuento. El programa mostrara el precio sin descuento precio con descuento IVA y precio final... | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QGranjaCaracoles.java) | 🟢 Listo. |
 | **☕♨️ QHacienda.** | Hacienda. Usuario introduzca su Renta anual bruta, su estado civil y tenemos que calcularle el impuesto que tiene que pagar hacienda... | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QHacienda.java) | 🟢 Listo. |
+| **☕♨️ QDivisibles23.** | Programa que verifique si un número es divisible por 2 y 3, si un número es divisible por 2 ó 3, y si un número es divisible por 2 ó 3 pero no por ambos. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QDivisibles23.java) | 🟢 Listo. |
 ---
 
 
