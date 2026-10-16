@@ -25,6 +25,7 @@
 | **☕♨️ QGranjaCaracoles.** | Granja de caracoles. Realice un programa que calcule el precio final de la compra de una cantidad de kg con un determinado descuento y aplicando el IVA. Se debe indicar si el comprador es particular o empresa y en función de la tabla calcular el descuento. El programa mostrara el precio sin descuento precio con descuento IVA y precio final... | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QGranjaCaracoles.java) | 🟢 Listo. |
 | **☕♨️ QHacienda.** | Hacienda. Usuario introduzca su Renta anual bruta, su estado civil y tenemos que calcularle el impuesto que tiene que pagar hacienda... | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QHacienda.java) | 🟢 Listo. |
 | **☕♨️ QDivisibles23.** | Programa que verifique si un número es divisible por 2 y 3, si un número es divisible por 2 ó 3, y si un número es divisible por 2 ó 3 pero no por ambos. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QDivisibles23.java) | 🟢 Listo. |
+| **☕♨️ QBisiesto.** | Este programa solicita primero al usuario que introduzca un año como un valor "int" y compruebe si es un año bisiesto. Un año es bisiesto si es divisible por 4 pero no por 100, o es divisible por 400. | [Ver práctica.]([https://github.com/frandaw7/programacion/blob/main/Tema3/QDivisibles23.java](https://github.com/frandaw7/programacion/blob/main/Tema3/QBisiesto.java)) | 🟢 Listo. |
 ---
 
 
