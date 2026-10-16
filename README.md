@@ -12,8 +12,8 @@
 | Nombre de práctica. | Descripción. | Documentación. | Estado. |
 | :--- | :--- | :--- | :---: |
 | **☕♨️ "QSumaPrimerGrado.java".** | Creación de un programa con la finalidad de realizar una suma de primer grado. La aplicación genera aleatoriamente 2 números enteros conformados por un dígito (nº1 y 2) y muestra una pregunta... "¿Cuánto suman X + Y?". Una vez se escriba por pantalla la potencial respuesta, el programa muestra un mensaje con la funcionalidad de indicar... "Correcto"/"Incorrecto". | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QSumaPrimerGrado.java) | 🟢 Listo. |
-| **☕♨️ "ProgramaHiFiveHiEven.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/ProgramaHiFiveHiEven.java) | 🟢 Listo. |
-| **☕♨️ "QMayoriaEdad.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QMayoriaEdad.java) | 🟢 Listo. |
+| **☕♨️ "ProgramaHiFiveHiEven.java".** | Programa para verificar divisiones de un número. Pide un entero y muestra "HiFive" si se puede dividir entre 5, y "HiEven" si se puede dividir entre 2. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/ProgramaHiFiveHiEven.java) | 🟢 Listo. |
+| **☕♨️ "QMayoriaEdad.java".** | Programa para comprobar la mayoría de edad. Pide la edad por pantalla y muestra si el usuario es mayor de edad o no. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QMayoriaEdad.java) | 🟢 Listo. |
 | **☕♨️ "QIndicadorNumeroMayor.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QIndicadorNumeroMayor.java) | 🟢 Listo. |
 | **☕♨️ "QIndicador3Numeros.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QIndicador3Numeros.java) | 🟢 Listo. |
 | **☕♨️ "QOrdenNumeros.java".** | Realiza un programa que acepte tres números desde teclado y los muestre ordenados de menor a mayor. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QOrdenNumeros.java) | 🟢 Listo. |
