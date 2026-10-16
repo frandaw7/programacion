@@ -11,6 +11,7 @@
 # 💻☕♨️ Tema 3. | Prácticas realizadas. 
 | Nombre de práctica. | Descripción. | Documentación. | Estado. |
 | :--- | :--- | :--- | :---: |
+| **☕♨️ QSumaPrimerGrado.** | Problema: Una sencilla herramienta de aprendizaje de matemáticas. Este ejemplo crea un programa para que realiza una suma de primer grado. El programa genera aleatoriamente dos números enteros de un dígito número1 y número2 y muestra una pregunta como "¿Qué es 7 + 9?" Al estudiante. Después de que el estudiante escribe la respuesta, el programa muestra un mensaje para indicar si la respuesta es verdadera o falsa. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QSumaPrimerGrado.java) | 🟢 Listo. |
 | **☕♨️ QMayoriaEdad.** | Realiza un programa que indique si el usuario es mayor de edad o no. (El usuario debe indicar su edad). | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QMayoriaEdad.java) | 🟢 Listo. |
 | **☕♨️ QIndicadorNumeroMayor.** | Realiza un programa que acepte dos números desde teclado e indique cual de los números es mayor. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QIndicadorNumeroMayor.java) | 🟢 Listo. |
 | **☕♨️ QIndicador3Numeros.** | Realiza un programa que acepte tres números desde teclado e indique cual de los números es el mas pequeño. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QIndicador3Numeros.java) | 🟢 Listo. |
