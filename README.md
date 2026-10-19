@@ -15,8 +15,7 @@
 | **☕♨️ "QPractica2.java".** | Programa que muestra tu nombre en pantalla. Utiliza una instrucción sencilla para mostrar un texto fijo en la terminal. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema1/QPractica2.java) | 🟢 Listo. |
 | **☕♨️ "QPractica3.java".** | Programa que muestra tus datos de contacto en pantalla. Muestra tu nombre, dirección y teléfono en tres líneas independientes. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema1/QPractica3.java) | 🟢 Listo. |
 | **☕♨️ "QPractica4.java".** | Programa que genera un glosario bilingüe por pantalla. Muestra diez vocablos en inglés y sus traducciones en columnas paralelas alineadas a la izquierda. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema1/QPractica4.java) | 🟢 Listo. |
-| **☕♨️ "QPractica5.java".** | Programa que organiza un horario escolar en la consola. Distribuye las asignaturas semanales en una cuadrícula estructurada mediante tabuladores.
- | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema1/QPractica5.java) | 🟢 Listo. |
+| **☕♨️ "QPractica5.java".** | Programa que organiza un horario escolar en la consola. Distribuye las asignaturas semanales en una cuadrícula estructurada mediante tabuladores. | [Ver práctica.(https://github.com/frandaw7/programacion/blob/main/Tema1/QPractica5.java) | 🟢 Listo. |
 ---
 
 
