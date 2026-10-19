@@ -13,7 +13,7 @@
 | :--- | :--- | :--- | :---: |
 | **☕♨️ "QPractica1.java".** | Programa que genera una tabla de productos. Organiza los datos en columnas alineadas para facilitar la lectura de precios y cantidades. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema1/QPractica1.java) | 🟢 Listo. |
 | **☕♨️ "QPractica2.java".** | Programa que muestra tu nombre en pantalla. Utiliza una instrucción sencilla para mostrar un texto fijo en la terminal. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema1/QPractica2.java) | 🟢 Listo. |
-| **☕♨️ "QPractica3.java".** | . | [Ver práctica.]() | 🟢 Listo. |
+| **☕♨️ "QPractica3.java".** | Programa que muestra tus datos de contacto en pantalla. Muestra tu nombre, dirección y teléfono en tres líneas independientes. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema1/QPractica3.java) | 🟢 Listo. |
 ---
 
 
