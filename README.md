@@ -11,8 +11,8 @@
 # 💻☕♨️ Tema 1. | Prácticas realizadas. 
 | Nombre de práctica. | Descripción. | Documentación. | Estado. |
 | :--- | :--- | :--- | :---: |
-| **☕♨️ "QPractica1.java".** | Demo de printf en Java para formatear y alinear tablas por consola de forma limpia, ideal para proyectos CLI estructurados. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema1/QPractica1.java) | 🟢 Listo. |
-| **☕♨️ "ProgramaHiFiveHiEven.java".** | Programa para verificar divisiones de un número. Pide un entero y muestra "HiFive" si se puede dividir entre 5, y "HiEven" si se puede dividir entre 2. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/ProgramaHiFiveHiEven.java) | 🟢 Listo. |
+| **☕♨️ "QPractica1.java".** | Programa que genera una tabla de productos. Organiza los datos en columnas alineadas para facilitar la lectura de precios y cantidades. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema1/QPractica1.java) | 🟢 Listo. |
+| **☕♨️ "QPráctica2.java".** | Programa que muestra tu nombre en pantalla. Utiliza una instrucción sencilla para mostrar un texto fijo en la terminal. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema1/QPr%C3%A1ctica2.java) | 🟢 Listo. |
 ---
 
 
