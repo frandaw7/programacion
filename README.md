@@ -12,7 +12,8 @@
 | Nombre de práctica. | Descripción. | Documentación. | Estado. |
 | :--- | :--- | :--- | :---: |
 | **☕♨️ "QPractica1.java".** | Programa que genera una tabla de productos. Organiza los datos en columnas alineadas para facilitar la lectura de precios y cantidades. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema1/QPractica1.java) | 🟢 Listo. |
-| **☕♨️ "QPráctica2.java".** | Programa que muestra tu nombre en pantalla. Utiliza una instrucción sencilla para mostrar un texto fijo en la terminal. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema1/QPr%C3%A1ctica2.java) | 🟢 Listo. |
+| **☕♨️ "QPractica2.java".** | Programa que muestra tu nombre en pantalla. Utiliza una instrucción sencilla para mostrar un texto fijo en la terminal. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema1/QPractica2.java) | 🟢 Listo. |
+| **☕♨️ "QPractica3.java".** | . | [Ver práctica.]() | 🟢 Listo. |
 ---
 
 
