@@ -8,6 +8,14 @@
 ---
 
 
+# 💻☕♨️ Tema 1. | Prácticas realizadas. 
+| Nombre de práctica. | Descripción. | Documentación. | Estado. |
+| :--- | :--- | :--- | :---: |
+| **☕♨️ "QPractica1.java".** | Demo de printf en Java para formatear y alinear tablas por consola de forma limpia, ideal para proyectos CLI estructurados. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema1/QPractica1.java) | 🟢 Listo. |
+| **☕♨️ "ProgramaHiFiveHiEven.java".** | Programa para verificar divisiones de un número. Pide un entero y muestra "HiFive" si se puede dividir entre 5, y "HiEven" si se puede dividir entre 2. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/ProgramaHiFiveHiEven.java) | 🟢 Listo. |
+---
+
+
 # 💻☕♨️ Tema 3. | Prácticas realizadas. 
 | Nombre de práctica. | Descripción. | Documentación. | Estado. |
 | :--- | :--- | :--- | :---: |
