@@ -27,6 +27,7 @@
 | **☕♨️ "QDivisibles23.java".** | Programa para evaluar las condiciones de división de un entero. Pide un número por pantalla y comprueba mediante operadores lógicos si se puede dividir entre 2 y 3 a la vez, entre alguno de ellos, o exclusivamente en uno de los dos casos. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QDivisibles23.java) | 🟢 Listo. |
 | **☕♨️ "QBisiesto.java".** | Programa para determinar si un año es bisiesto. Pide un año entero por pantalla, le aplica la fórmula matemática de validación correspondiente y muestra si el año cumple con las condiciones necesarias o no. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QBisiesto.java) | 🟢 Listo. |
 | **☕♨️ "QLoteria.java".** | Programa de simulación de lotería. Genera un número aleatorio de dos dígitos y pide al usuario que introduzca su apuesta por pantalla. Tras comparar ambos valores cifra por cifra, calcula el premio obtenido en función del orden de coincidencia y muestra la recompensa final. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QLoteria.java) | 🟢 Listo. |
+| **☕♨️ "QZodiacoChino.java".** | Programa que solicita al usuario que introduzca un año. Tras esto, se muestra el animal para el dato introducido en cuestión. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QZodiacoChino.java) | 🟢 Listo. |
 ---
 
 
