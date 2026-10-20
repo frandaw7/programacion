@@ -25,8 +25,8 @@
 | **☕♨️ "QPractica1.java".** | Programa que calcula el salario semanal de un trabajador. Recibe las horas laboradas por teclado y computa el importe total multiplicándolo por la tarifa fija por hora. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema2/QPractica1.java) | 🟢 Listo. |
 | **☕♨️ "QPractica2.java".** | Programa que calcula el volumen de un cono geométrico. Solicita el radio de la base y la altura por teclado para aplicar la fórmula matemática correspondiente. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema2/QPractica2.java) | 🟢 Listo. |
 | **☕♨️ "QPractica3.java".** | El programa convierte Megabytes (Mb) a Kilobytes (Kb) multiplicando la entrada por 1024. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema2/QPractica3.java) | 🟢 Listo. |
-| **☕♨️ "QPractica4.java".** | Programa que genera un glosario bilingüe por pantalla. Muestra diez vocablos en inglés y sus traducciones en columnas paralelas alineadas a la izquierda. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema1/QPractica4.java) | 🟢 Listo. |
-| **☕♨️ "QPractica5.java".** | Programa que organiza un horario escolar en la consola. Distribuye las asignaturas semanales en una cuadrícula estructurada mediante tabuladores. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema1/QPractica5.java) | 🟢 Listo. |
+| **☕♨️ "QPractica4.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema2/QPractica4.java) | 🟢 Listo. |
+| **☕♨️ "QPractica5.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema2/QPractica5.java) | 🟢 Listo. |
 ---
 
 
