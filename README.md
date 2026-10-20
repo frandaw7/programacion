@@ -26,7 +26,7 @@
 | **☕♨️ "QPractica2.java".** | Programa que calcula el volumen de un cono geométrico. Solicita el radio de la base y la altura por teclado para aplicar la fórmula matemática correspondiente. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema2/QPractica2.java) | 🟢 Listo. |
 | **☕♨️ "QPractica3.java".** | El programa convierte Megabytes (Mb) a Kilobytes (Kb) multiplicando la entrada por 1024. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema2/QPractica3.java) | 🟢 Listo. |
 | **☕♨️ "QPractica4.java".** | El programa convierte Kilobytes (Kb) a Megabytes (Mb) dividiendo la entrada entre 1024. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema2/QPractica4.java) | 🟢 Listo. |
-| **☕♨️ "QPractica5.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema2/QPractica5.java) | 🟢 Listo. |
+| **☕♨️ "QPractica5.java".** | El programa convierte un número binario (de hasta 8 dígitos) a su valor decimal. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema2/QPractica5.java) | 🟢 Listo. |
 ---
 
 
