@@ -51,6 +51,7 @@
 | **☕♨️ "QLoteria.java".** | Programa de simulación de lotería. Genera un número aleatorio de dos dígitos y pide al usuario que introduzca su apuesta por pantalla. Tras comparar ambos valores cifra por cifra, calcula el premio obtenido en función del orden de coincidencia y muestra la recompensa final. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QLoteria.java) | 🟢 Listo. |
 | **☕♨️ "QZodiacoChino.java".** | Programa que solicita al usuario que introduzca un año. Tras esto, se muestra el animal para el dato introducido en cuestión. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QZodiacoChino.java) | 🟢 Listo. |
 | **☕♨️ "QPracticaExtra1.java".** | El programa muestra la asignatura de primera hora según el día de la semana introducido. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QPracticaExtra1.java) | 🟢 Listo. |
+| **☕♨️ "QPracticaExtra2.java".** | El programa solicita una hora entera por teclado y determina el saludo correspondiente según el rango horario establecido. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QPracticaExtra2.java) | 🟢 Listo. |
 ---
 
 
