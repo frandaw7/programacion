@@ -7,7 +7,7 @@ public class QPracticaExtra1 {
         System.out.println("Miércoles");
         System.out.println("Jueves");
         System.out.println("Viernes");
-        System.out.print("Introduce el número del día de la semana. / 1-5: ");
+        System.out.print("Introducir número día de la semana. / 1-5: ");
         int dia = scanner.nextInt();
         switch (dia) {
             case 1:
