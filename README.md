@@ -70,6 +70,9 @@
 | **☕♨️ "QInsertarDigito.java".** | Escribe un programa que sea capaz de insertar un dígito dentro de un número indicando la posición. El nuevo dígito se colocará en la posición indicada y el resto de dígitos se desplazará hacia la derecha. Las posiciones se cuentan de izquierda a derecha empezando por el 1. Suponemos que el usuario introduce correctamente los datos. Se recomienda usar long en lugar de int ya que el primero admite números más largos. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema4/QInsertarDigito.java) | 🟢 Listo. |
 | **☕♨️ "QInsertarMitadCadenaCaracteres.java".** | Programa que inserte “<>” justo en la mitad de una cadena de caracteres desde teclado. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema4/QInsertarMitadCadenaCaracteres.java) | 🟢 Listo. |
 | **☕♨️ "QDividirA.java".** | Programa que divida una palabra desde la primera A que encuentre. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema4/QDividirA.java) | 🟢 Listo. |
+| **☕♨️ "QPracticaExtra1.java".** | Programa para calcular y redondear 5 notas mostrando su media, máximo y mínimo. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema4/QPracticaExtra1.java) | 🟢 Listo. |
+| **☕♨️ "QPracticaExtra2.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema4/QPracticaExtra2.java) | 🟢 Listo. |
+| **☕♨️ "QPracticaExtra3.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema4/QPracticaExtra3.java) | 🟢 Listo. |
 ---
 
 
