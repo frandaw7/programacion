@@ -80,6 +80,6 @@
 # 💻☕♨️ Tema 5. | Prácticas realizadas. 
 | Nombre de práctica. | Descripción. | Documentación. | Estado. |
 | :--- | :--- | :--- | :---: |
-| **☕♨️ ".java".** |  | [Ver práctica.]() | 🟢 Listo. |
+| **☕♨️ "QPractica1.java".** | Programa ejecuta una cuenta regresiva de 5 a 0 mediante un bucle while. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica1.java) | 🟢 Listo. |
 | **☕♨️ ".java".** |  | [Ver práctica.]() | 🟢 Listo. |
 ---
