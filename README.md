@@ -71,7 +71,7 @@
 | **☕♨️ "QInsertarMitadCadenaCaracteres.java".** | Programa que inserte “<>” justo en la mitad de una cadena de caracteres desde teclado. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema4/QInsertarMitadCadenaCaracteres.java) | 🟢 Listo. |
 | **☕♨️ "QDividirA.java".** | Programa que divida una palabra desde la primera A que encuentre. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema4/QDividirA.java) | 🟢 Listo. |
 | **☕♨️ "QPracticaExtra1.java".** | Programa para calcular y redondear 5 notas mostrando su media, máximo y mínimo. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema4/QPracticaExtra1.java) | 🟢 Listo. |
-| **☕♨️ "QPracticaExtra2.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema4/QPracticaExtra2.java) | 🟢 Listo. |
+| **☕♨️ "QPracticaExtra2.java".** | Programa para validar si un texto tiene entre 2 y 7 dígitos numéricos. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema4/QPracticaExtra2.java) | 🟢 Listo. |
 | **☕♨️ "QPracticaExtra3.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema4/QPracticaExtra3.java) | 🟢 Listo. |
 ---
 
