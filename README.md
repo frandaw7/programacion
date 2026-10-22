@@ -52,6 +52,7 @@
 | **☕♨️ "QZodiacoChino.java".** | Programa que solicita al usuario que introduzca un año. Tras esto, se muestra el animal para el dato introducido en cuestión. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QZodiacoChino.java) | 🟢 Listo. |
 | **☕♨️ "QPracticaExtra1.java".** | El programa muestra la asignatura de primera hora según el día de la semana introducido. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QPracticaExtra1.java) | 🟢 Listo. |
 | **☕♨️ "QPracticaExtra2.java".** | El programa solicita una hora entera por teclado y determina el saludo correspondiente según el rango horario establecido. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QPracticaExtra2.java) | 🟢 Listo. |
+| **☕♨️ "QPracticaExtra3.java".** | Programa de clasificación zodiacal mediante identificadores numéricos a partir del día y mes de nacimiento. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QPracticaExtra3.java) | 🟢 Listo. |
 ---
 
 
@@ -67,4 +68,12 @@
 | **☕♨️ "QInsertarDigito.java".** | Escribe un programa que sea capaz de insertar un dígito dentro de un número indicando la posición. El nuevo dígito se colocará en la posición indicada y el resto de dígitos se desplazará hacia la derecha. Las posiciones se cuentan de izquierda a derecha empezando por el 1. Suponemos que el usuario introduce correctamente los datos. Se recomienda usar long en lugar de int ya que el primero admite números más largos. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema4/QInsertarDigito.java) | 🟢 Listo. |
 | **☕♨️ "QInsertarMitadCadenaCaracteres.java".** | Programa que inserte “<>” justo en la mitad de una cadena de caracteres desde teclado. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema4/QInsertarMitadCadenaCaracteres.java) | 🟢 Listo. |
 | **☕♨️ "QDividirA.java".** | Programa que divida una palabra desde la primera A que encuentre. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema4/QDividirA.java) | 🟢 Listo. |
+---
+
+
+# 💻☕♨️ Tema 5. | Prácticas realizadas. 
+| Nombre de práctica. | Descripción. | Documentación. | Estado. |
+| :--- | :--- | :--- | :---: |
+| **☕♨️ ".java".** |  | [Ver práctica.]() | 🟢 Listo. |
+| **☕♨️ ".java".** |  | [Ver práctica.]() | 🟢 Listo. |
 ---
