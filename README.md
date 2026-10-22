@@ -54,6 +54,7 @@
 | **☕♨️ "QPracticaExtra2.java".** | El programa solicita una hora entera por teclado y determina el saludo correspondiente según el rango horario establecido. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QPracticaExtra2.java) | 🟢 Listo. |
 | **☕♨️ "QPracticaExtra3.java".** | Programa de clasificación zodiacal mediante identificadores numéricos a partir del día y mes de nacimiento. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QPracticaExtra3.java) | 🟢 Listo. |
 | **☕♨️ "QPracticaExtra4.java".** | Programa de verificación de números capicúas de hasta 5 cifras. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QPracticaExtra4.java) | 🟢 Listo. |
+| **☕♨️ "QPracticaExtra5.java".** | Programa de cálculo de la nota trimestral de Programación evaluando la nota media de dos controles y el examen de recuperación condicional. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema3/QPracticaExtra5.java) | 🟢 Listo. |
 ---
 
 
