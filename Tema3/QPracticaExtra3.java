@@ -3,7 +3,7 @@ public class QPracticaExtra3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 // IMPORTANTE, ES NECESARIO LEER EL COMENTARIO.
-// He usado "char" en lugar de "print" o "println", aplicado al código al completo, con la idea de practicar esta utilidad. Por ende, sé la ineficiencia de usar estas cuestiones.
+// He usado "char" en lugar de "print" o "println", aplicado al código al completo, con la idea de practicar esta utilidad. Por ende, sé la ineficiencia de usar dichas cuestiones.
         System.out.print(new char[]{'D', 'i', 'a', ':', ' '});
         int dia = scanner.nextInt();
         System.out.print(new char[]{'M', 'e', 's', ':', ' '});
