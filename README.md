@@ -85,4 +85,5 @@
 | **☕♨️ "QPractica3.java".** | Programa que transforma una nota numérica en su calificación correspondiente mediante condicionales y valida el rango correcto. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica3.java) | 🟢 Listo. |
 | **☕♨️ "QPractica4.java".** | Programa que genera una estructura en forma de escalera numérica en la consola utilizando bucles anidados. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica4.java) | 🟢 Listo. |
 | **☕♨️ "QPractica5.java".** | Programa que genera una estructura en forma de escalera numérica descendente utilizando bucles anidados. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica5.java) | 🟢 Listo. |
+| **☕♨️ "QPractica6.java".** | Programa que genera una estructura en forma de escalera numérica simétrica utilizando bucles anidados. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica6.java) | 🟢 Listo. |
 ---
