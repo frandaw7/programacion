@@ -87,4 +87,5 @@
 | **☕♨️ "QPractica5.java".** | Programa que genera una estructura en forma de escalera numérica descendente utilizando bucles anidados. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica5.java) | 🟢 Listo. |
 | **☕♨️ "QPractica6.java".** | Programa que genera una estructura en forma de escalera numérica simétrica utilizando bucles anidados. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica6.java) | 🟢 Listo. |
 | **☕♨️ "QPractica7.java".** | Programa que encuentra e imprime todos los números primos comprendidos en un rango determinado. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica7.java) | 🟢 Listo. |
+| **☕♨️ "QPractica8.java".** | Programa que acumula la suma de números enteros introducidos por teclado y finaliza la ejecución cuando el usuario ingresa un cero. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica8.java) | 🟢 Listo. |
 ---
