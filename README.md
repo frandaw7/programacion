@@ -83,4 +83,5 @@
 | **☕♨️ "QPractica1.java".** | Programa ejecuta una cuenta regresiva de 5 a 0 mediante un bucle while. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica1.java) | 🟢 Listo. |
 | **☕♨️ "QPractica2.java".** | Programa diseñado para practicar la implementación de bucles secuenciales mediante la tabla de multiplicar del 9. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica2.java) | 🟢 Listo. |
 | **☕♨️ "QPractica3.java".** | Programa que transforma una nota numérica en su calificación correspondiente mediante condicionales y valida el rango correcto. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica3.java) | 🟢 Listo. |
+| **☕♨️ "QPractica4.java".** | Programa que genera una estructura en forma de escalera numérica en la consola utilizando bucles anidados. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica4.java) | 🟢 Listo. |
 ---
