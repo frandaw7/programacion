@@ -94,4 +94,9 @@
 | **☕♨️ "QPractica12.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
 | **☕♨️ "QPractica13.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
 | **☕♨️ "QPractica14.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
+| **☕♨️ "QPracticaExtra1.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
+| **☕♨️ "QPracticaExtra2.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
+| **☕♨️ "QPracticaExtra3.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
+| **☕♨️ "QPracticaExtra4.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
+| **☕♨️ "QPracticaExtra5.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
 ---
