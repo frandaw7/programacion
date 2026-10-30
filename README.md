@@ -92,4 +92,6 @@
 | **☕♨️ "QPractica10.java".** | Programa que calcula las cifras de un número entero positivo de forma aritmética. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica10.java) | 🟡 En proceso. |
 | **☕♨️ "QPractica11.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
 | **☕♨️ "QPractica12.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
+| **☕♨️ "QPractica13.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
+| **☕♨️ "QPractica14.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
 ---
