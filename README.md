@@ -88,6 +88,8 @@
 | **☕♨️ "QPractica6.java".** | Programa que genera una estructura en forma de escalera numérica simétrica utilizando bucles anidados. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica6.java) | 🟢 Listo. |
 | **☕♨️ "QPractica7.java".** | Programa que encuentra e imprime todos los números primos comprendidos en un rango determinado. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica7.java) | 🟢 Listo. |
 | **☕♨️ "QPractica8.java".** | Programa que acumula la suma de números enteros introducidos por teclado y finaliza la ejecución cuando el usuario ingresa un cero. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica8.java) | 🟢 Listo. |
-| **☕♨️ "QPractica9.java".** | Programa que solicita un número entero al usuario y muestra por pantalla todos los valores pares comprendidos desde el uno hasta el límite introducido. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica9.java) | 🟡 En proceso. |
+| **☕♨️ "QPractica9.java".** | Programa que solicita un número entero al usuario y muestra por pantalla todos los valores pares comprendidos desde el uno hasta el límite introducido. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica9.java) | 🟢 Listo. |
 | **☕♨️ "QPractica10.java".** | Programa que calcula las cifras de un número entero positivo de forma aritmética. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica10.java) | 🟡 En proceso. |
+| **☕♨️ "QPractica11.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
+| **☕♨️ "QPractica12.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
 ---
