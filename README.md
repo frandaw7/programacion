@@ -107,7 +107,7 @@
 | Nombre de práctica. | Descripción. | Documentación. | Estado. |
 | :--- | :--- | :--- | :---: |
 | **☕♨️ "QPractica1.java".** | Programa de implementación de una biblioteca de funciones matemáticas. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica1.java) | 🟢 Listo. |
-| **☕♨️ "QPractica2.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica2.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica2.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica2.java) | 🟡 En proceso. |
 | **☕♨️ "QPractica3.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica3.java) | 🔴 Sin completar. |
 | **☕♨️ "QPractica4.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica4.java) | 🔴 Sin completar. |
 | **☕♨️ "QPractica5.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica5.java) | 🔴 Sin completar. |
