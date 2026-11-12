@@ -6,7 +6,7 @@
 | **☕♨️ Tema 3.** | Prácticas acerca de Tema 3. | [Ver contenido.](https://github.com/frandaw7/programacion/tree/main#%EF%B8%8F-tema-3--pr%C3%A1cticas-realizadas) | 🟢 Listo. |
 | **☕♨️ Tema 4.** | Prácticas acerca de Tema 4. | [Ver contenido.](https://github.com/frandaw7/programacion/tree/main#%EF%B8%8F-tema-4--pr%C3%A1cticas-realizadas) | 🟢 Listo. |
 | **☕♨️ Tema 5.** | Prácticas acerca de Tema 5. | [Ver contenido.](https://github.com/frandaw7/programacion#%EF%B8%8F-tema-5--pr%C3%A1cticas-realizadas) | 🟢 Listo. / 🟡 En proceso. / 🔴 Sin completar. |
-| **☕♨️ Tema 6.** | Prácticas acerca de Tema 6. | [Ver contenido.]() | 🔴 Sin completar. |
+| **☕♨️ Tema 6.** | Prácticas acerca de Tema 6. | [Ver contenido.](https://github.com/frandaw7/programacion#%EF%B8%8F-tema-6--pr%C3%A1cticas-realizadas) | 🔴 Sin completar. |
 ---
 
 
