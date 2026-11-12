@@ -96,7 +96,7 @@
 | **☕♨️ "QPractica13.java".** | Programa de generación de matrices numéricas mediante el producto de sus índices de fila y columna. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica13.java) | 🟢 Listo. |
 | **☕♨️ "QPracticaExtra1.java".** | Programa de conteo de vocales en una cadena de caracteres. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPracticaExtra1.java) | 🟢 Listo. |
 | **☕♨️ "QPracticaExtra2.java".** | Programa de obtención de suma y media aritmética de reales positivos. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPracticaExtra2.java) | 🟢 Listo. |
-| **☕♨️ "QPracticaExtra3.java".** |  | [Ver práctica.]() | 🟢 Listo. |
+| **☕♨️ "QPracticaExtra3.java".** | Programa de búsqueda de un valor específico en una secuencia de enteros con condición de parada. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPracticaExtra3.java) | 🟢 Listo. |
 | **☕♨️ "QPracticaExtra4.java".** |  | [Ver práctica.]() | 🟢 Listo. |
 | **☕♨️ "QPracticaExtra5.java".** |  | [Ver práctica.]() | 🟢 Listo. |
 ---
