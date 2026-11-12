@@ -95,7 +95,7 @@
 | **☕♨️ "QPractica12.java".** | Programa de generación de matrices cuadradas numéricas de tamaño N mediante bucles anidados | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica12.java) | 🟢 Listo. |
 | **☕♨️ "QPractica13.java".** | Programa de generación de matrices numéricas mediante el producto de sus índices de fila y columna. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica13.java) | 🟢 Listo. |
 | **☕♨️ "QPractica14.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
-| **☕♨️ "QPracticaExtra1.java".** | Programa de conteo de vocales en una cadena de caracteres con validación de errores de entrada. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPracticaExtra1.java) | 🟢 Listo. |
+| **☕♨️ "QPracticaExtra1.java".** | Programa de conteo de vocales en una cadena de caracteres. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPracticaExtra1.java) | 🟢 Listo. |
 | **☕♨️ "QPracticaExtra2.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
 | **☕♨️ "QPracticaExtra3.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
 | **☕♨️ "QPracticaExtra4.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
