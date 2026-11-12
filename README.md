@@ -106,11 +106,11 @@
 # 💻☕♨️ Tema 6. | Prácticas realizadas. 
 | Nombre de práctica. | Descripción. | Documentación. | Estado. |
 | :--- | :--- | :--- | :---: |
-| **☕♨️ "QPractica1.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica1.java) | 🟢 Listo. |
-| **☕♨️ "QPractica2.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica2.java) | 🟢 Listo. |
-| **☕♨️ "QPractica3.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica3.java) | 🟢 Listo. |
-| **☕♨️ "QPractica4.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica4.java) | 🟢 Listo. |
-| **☕♨️ "QPractica5.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica5.java) | 🟢 Listo. |
-| **☕♨️ "QPractica6.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica6.java) | 🟢 Listo. |
-| **☕♨️ "QPractica7.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica7.java) | 🟢 Listo. |
+| **☕♨️ "QPractica1.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica1.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica2.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica2.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica3.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica3.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica4.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica4.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica5.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica5.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica6.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica6.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica7.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica7.java) | 🔴 Sin completar. |
 ---
