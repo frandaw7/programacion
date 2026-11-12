@@ -98,6 +98,7 @@
 | **☕♨️ "QPracticaExtra2.java".** | Programa de obtención de suma y media aritmética de reales positivos. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPracticaExtra2.java) | 🟢 Listo. |
 | **☕♨️ "QPracticaExtra3.java".** | Programa de búsqueda de un valor específico en una secuencia de enteros con condición de parada. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPracticaExtra3.java) | 🟢 Listo. |
 | **☕♨️ "QPracticaExtra4.java".** | Programa de obtención del factorial de enteros no negativos. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPracticaExtra4.java) | 🟢 Listo. |
+| **☕♨️ "QPracticaExtra5.java".** | Programa de obtención de factoriales sucesivos hasta un número positivo introducido por teclado. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPracticaExtra5.java) | 🟢 Listo. |
 | **☕♨️ "QPracticaExtra5.java".** |  | [Ver práctica.]() | 🟢 Listo. |
 ---
 
