@@ -94,12 +94,11 @@
 | **☕♨️ "QPractica11.java".** | Programa que comprueba si un número es primo comprobando sus divisores con un bucle. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica11.java) | 🟢 Listo. |
 | **☕♨️ "QPractica12.java".** | Programa de generación de matrices cuadradas numéricas de tamaño N mediante bucles anidados | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica12.java) | 🟢 Listo. |
 | **☕♨️ "QPractica13.java".** | Programa de generación de matrices numéricas mediante el producto de sus índices de fila y columna. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica13.java) | 🟢 Listo. |
-| **☕♨️ "QPractica14.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
 | **☕♨️ "QPracticaExtra1.java".** | Programa de conteo de vocales en una cadena de caracteres. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPracticaExtra1.java) | 🟢 Listo. |
-| **☕♨️ "QPracticaExtra2.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
-| **☕♨️ "QPracticaExtra3.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
-| **☕♨️ "QPracticaExtra4.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
-| **☕♨️ "QPracticaExtra5.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
+| **☕♨️ "QPracticaExtra2.java".** | Programa de obtención de suma y media aritmética de reales positivos. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPracticaExtra2.java) | 🟢 Listo. |
+| **☕♨️ "QPracticaExtra3.java".** |  | [Ver práctica.]() | 🟢 Listo. |
+| **☕♨️ "QPracticaExtra4.java".** |  | [Ver práctica.]() | 🟢 Listo. |
+| **☕♨️ "QPracticaExtra5.java".** |  | [Ver práctica.]() | 🟢 Listo. |
 ---
 
 
