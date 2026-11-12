@@ -90,12 +90,12 @@
 | **☕♨️ "QPractica7.java".** | Programa que encuentra e imprime todos los números primos comprendidos en un rango determinado. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica7.java) | 🟢 Listo. |
 | **☕♨️ "QPractica8.java".** | Programa que acumula la suma de números enteros introducidos por teclado y finaliza la ejecución cuando el usuario ingresa un cero. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica8.java) | 🟢 Listo. |
 | **☕♨️ "QPractica9.java".** | Programa que solicita un número entero al usuario y muestra por pantalla todos los valores pares comprendidos desde el uno hasta el límite introducido. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica9.java) | 🟢 Listo. |
-| **☕♨️ "QPractica10.java".** | Programa que calcula las cifras de un número entero positivo de forma aritmética. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica10.java) | 🟡 En proceso. |
+| **☕♨️ "QPractica10.java".** | Programa que calcula las cifras de un número entero positivo de forma aritmética. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPractica10.java) | 🟢 Listo. |
 | **☕♨️ "QPractica11.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
 | **☕♨️ "QPractica12.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
 | **☕♨️ "QPractica13.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
 | **☕♨️ "QPractica14.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
-| **☕♨️ "QPracticaExtra1.java".** | Programa de conteo de vocales en una cadena de caracteres con validación de errores de entrada. | [Ver práctica.]() | 🔴 Sin completar. |
+| **☕♨️ "QPracticaExtra1.java".** | Programa de conteo de vocales en una cadena de caracteres con validación de errores de entrada. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema5/QPracticaExtra1.java) | 🟢 Listo. |
 | **☕♨️ "QPracticaExtra2.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
 | **☕♨️ "QPracticaExtra3.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
 | **☕♨️ "QPracticaExtra4.java".** |  | [Ver práctica.]() | 🔴 Sin completar. |
