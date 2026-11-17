@@ -109,7 +109,7 @@
 | :--- | :--- | :--- | :---: |
 | **☕♨️ "QPractica1.java".** | Programa de implementación de una biblioteca de funciones matemáticas. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica1.java) | 🟢 Listo. |
 | **☕♨️ "QPractica2.java".** | Programa de implementación de un método para el cálculo del valor máximo entre dos números. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica2.java) | 🟢 Listo. |
-| **☕♨️ "QPractica3.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica3.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica3.java".** | Programa de implementación de un método para el cálculo del valor máximo entre tres números. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica3.java) | 🟢 Listo. |
 | **☕♨️ "QPractica4.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica4.java) | 🔴 Sin completar. |
 | **☕♨️ "QPractica5.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica5.java) | 🔴 Sin completar. |
 | **☕♨️ "QPractica6.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica6.java) | 🔴 Sin completar. |
