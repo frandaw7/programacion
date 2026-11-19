@@ -125,11 +125,11 @@
 | **☕♨️ "QPractica3.java".** | Programa de inicialización y visualización de un array con los números pares comprendidos entre 1 y 100 en orden ascendente. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica3.java) | 🟢 Listo. |
 | **☕♨️ "QPractica4.java".** | Programa de inicialización y visualización de un array con los números impares comprendidos entre 1 y 100 en orden ascendente. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica4.java) | 🟢 Listo. |
 | **☕♨️ "QPractica5.java".** | Programa de almacenamiento y visualización de los números primos comprendidos entre 1 y 100 en orden ascendente. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica5.java) | 🟢 Listo. |
-| **☕♨️ "QPractica6.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica6.java) | 🔴 Sin completar. |
-| **☕♨️ "QPractica7.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica7.java) | 🔴 Sin completar. |
-| **☕♨️ "QPractica8.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica8.java) | 🔴 Sin completar. |
-| **☕♨️ "QPractica9.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica9.java) | 🔴 Sin completar. |
-| **☕♨️ "QPractica10.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica10.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica6.java".** | Programa de lectura y visualización en orden inverso de diez números almacenados en un array. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica6.java) | 🟢 Listo. |
+| **☕♨️ "QPractica7.java".** | Programa de lectura y cálculo de operaciones aritméticas básicas con diez números almacenados en un array. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica7.java) | 🟢 Listo. |
+| **☕♨️ "QPractica8.java".** | Programa de almacenamiento y cálculo de la suma de los cien primeros números pares en un array. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica8.java) | 🟢 Listo. |
+| **☕♨️ "QPractica9.java".** | Programa de lectura de diez números en un array y cálculo de su media aritmética. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica9.java) | 🟢 Listo. |
+| **☕♨️ "QPractica10.java".** | Programa de lectura, ordenación ascendente y visualización de diez números almacenados en un array. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica10.java) | 🟢 Listo. |
 | **☕♨️ "QPractica11.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica11.java) | 🔴 Sin completar. |
 | **☕♨️ "QPractica12.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica12.java) | 🔴 Sin completar. |
 | **☕♨️ "QPractica13.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica13.java) | 🔴 Sin completar. |
