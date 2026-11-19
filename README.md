@@ -113,7 +113,7 @@
 | **☕♨️ "QPractica4.java".** | Programa de implementación de un método para el cálculo y visualización del volumen de un cilindro. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica4.java) | 🟢 Listo. |
 | **☕♨️ "QPractica5.java".** | Programa de cálculo y conteo de los divisores primos de un número entero. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica5.java) | 🟢 Listo. |
 | **☕♨️ "QPractica6.java".** | Programa de comprobación de números amigos mediante el cálculo de sus divisores propios. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica6.java) | 🟢 Listo. |
-| **☕♨️ "QPractica7.java".** | Programa de validación de fechas y cálculo del día de la semana utilizando métodos. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica7.java) | 🟡 En proceso. |
+| **☕♨️ "QPractica7.java".** | Programa de validación de fechas y cálculo del día de la semana utilizando métodos. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema6/QPractica7.java) | 🟢 Listo. |
 ---
 
 
