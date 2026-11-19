@@ -120,7 +120,7 @@
 # 💻☕♨️ Tema 7. | Prácticas realizadas. 
 | Nombre de práctica. | Descripción. | Documentación. | Estado. |
 | :--- | :--- | :--- | :---: |
-| **☕♨️ "QPractica1.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica1.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica1.java".** | Programa de inicialización y visualización de un array con los primeros cien números enteros. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica1.java) | 🟢 Listo. |
 | **☕♨️ "QPractica2.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica2.java) | 🔴 Sin completar. |
 | **☕♨️ "QPractica3.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica3.java) | 🔴 Sin completar. |
 | **☕♨️ "QPractica4.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica4.java) | 🔴 Sin completar. |
