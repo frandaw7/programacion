@@ -127,4 +127,21 @@
 | **☕♨️ "QPractica5.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica5.java) | 🔴 Sin completar. |
 | **☕♨️ "QPractica6.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica6.java) | 🔴 Sin completar. |
 | **☕♨️ "QPractica7.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica7.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica8.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica8.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica9.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica9.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica10.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica10.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica11.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica11.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica12.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica12.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica13.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica13.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica14.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica14.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica15.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica15.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica16.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica16.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica17.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica17.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica18.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica18.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica19.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica19.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica20.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica20.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica21.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica21.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica22.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica22.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica23.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica23.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica24.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica24.java) | 🔴 Sin completar. |
 ---
