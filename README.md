@@ -122,9 +122,9 @@
 | :--- | :--- | :--- | :---: |
 | **☕♨️ "QPractica1.java".** | Programa de inicialización y visualización de un array con los primeros cien números enteros. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica1.java) | 🟢 Listo. |
 | **☕♨️ "QPractica2.java".** | Programa de inicialización y visualización de un array con los primeros cien números enteros en orden descendente. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica2.java) | 🟢 Listo. |
-| **☕♨️ "QPractica3.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica3.java) | 🔴 Sin completar. |
-| **☕♨️ "QPractica4.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica4.java) | 🔴 Sin completar. |
-| **☕♨️ "QPractica5.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica5.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica3.java".** | Programa de inicialización y visualización de un array con los números pares comprendidos entre 1 y 100 en orden ascendente. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica3.java) | 🟢 Listo. |
+| **☕♨️ "QPractica4.java".** | Programa de inicialización y visualización de un array con los números impares comprendidos entre 1 y 100 en orden ascendente. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica4.java) | 🟢 Listo. |
+| **☕♨️ "QPractica5.java".** | Programa de almacenamiento y visualización de los números primos comprendidos entre 1 y 100 en orden ascendente. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica5.java) | 🟢 Listo. |
 | **☕♨️ "QPractica6.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica6.java) | 🔴 Sin completar. |
 | **☕♨️ "QPractica7.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica7.java) | 🔴 Sin completar. |
 | **☕♨️ "QPractica8.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica8.java) | 🔴 Sin completar. |
