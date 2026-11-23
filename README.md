@@ -130,8 +130,8 @@
 | **☕♨️ "QPractica8.java".** | Programa de almacenamiento y cálculo de la suma de los cien primeros números pares en un array. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica8.java) | 🟢 Listo. |
 | **☕♨️ "QPractica9.java".** | Programa de lectura de diez números en un array y cálculo de su media aritmética. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica9.java) | 🟢 Listo. |
 | **☕♨️ "QPractica10.java".** | Programa de lectura, ordenación ascendente y visualización de diez números almacenados en un array. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica10.java) | 🟢 Listo. |
-| **☕♨️ "QPractica11.java".** | Programa de lectura de diez números en dos arrays distintos, combinación en un tercer array y visualización por pantalla. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica11.java) | 🔴 Sin completar. |
-| **☕♨️ "QPractica12.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica12.java) | 🔴 Sin completar. |
+| **☕♨️ "QPractica11.java".** | Programa de lectura de diez números en dos arrays distintos, combinación en un tercer array y visualización por pantalla. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica11.java) | 🟢 Listo. |
+| **☕♨️ "QPractica12.java".** | Programa de lectura de cinco números, copia a un segundo array multiplicados por dos y visualización por pantalla. | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica12.java) | 🟢 Listo. |
 | **☕♨️ "QPractica13.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica13.java) | 🔴 Sin completar. |
 | **☕♨️ "QPractica14.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica14.java) | 🔴 Sin completar. |
 | **☕♨️ "QPractica15.java".** |  | [Ver práctica.](https://github.com/frandaw7/programacion/blob/main/Tema7/QPractica15.java) | 🔴 Sin completar. |
